@@ -1,4 +1,2 @@
-#Csapattagok:
--Egres Marcell
--Körmöndi Tamás
--Jánor Máté
+Csapattagok:
+Egres Marcell, Körmöndi Tamás, Jánor Máté
